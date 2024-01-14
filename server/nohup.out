@@ -1,0 +1,110 @@
+The disableGPU setting is set to undefined
+Not disabling GPU
+[9596:0114/140633.774565:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/portal/desktop: org.freedesktop.DBus.Error.InvalidArgs: La interfaz «org.freedesktop.portal.FileChooser» no existe
+[9596:0114/140633.774626:ERROR:select_file_dialog_linux_portal.cc(242)] Failed to read portal version property
+Main: Starting cleanup of stale files
+Main: Cleanup of stale files completed
+Main~createDefaultWorkingDir - Default working dir creation already attempted
+1705259193893 main info "Booting Postman 10.20.0, linux-6.6.10-arch1-1 on x64"
+1705259193895 main info "EventBus~initialize - Success"
+1705259193898 main info "Proxy configuration has not been setup"
+1705259193899 main info "CloudProxyManager~init - Success"
+1705259193919 main info "performShellDataMigration: Migration has already been done. Bailing out"
+1705259193925 main info "UpdateHandler~init - Success"
+1705259193927 main info "LeaderSelection: Initialized successfully"
+1705259193928 main info "VersionDependencyService: Initialized successfully"
+1705259193934 main info "LinuxAutoUpdater~Cleanup - Initial cleanup successful"
+1705259193948 main info "GPU detected VID 4318 DID 4747 ACTIVE true"
+1705259193972 main info "shellController~init: Success"
+1705259193978 main info "shellMeta~init: Success"
+1705259193978 main info "partitionMigrationService: State of V7 partition:"
+1705259193978 main info "partitionMigrationService: V7 partitions",[]
+1705259193979 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no partition with scratchpad namespace"
+1705259193979 main info "partitionMigrationService~rectifyNamespaceOfScratchPadPartition: There is no transit partition which could have been used for scratchpad"
+1705259193979 main info "partitionMigrationService~init: Success"
+[9640:0114/140633.991944:ERROR:sandbox_linux.cc(377)] InitializeSandbox() called with multiple threads in process gpu-process.
+1705259193993 main info "partitionMigrationService~runV8PartitionsIntegrity: Two way migration~ removing the following partitions from v8",[]
+1705259194010 main info "userPartitionService~getRecentV8UserPartition: recent v8 user context partition ","1d7ae037-2f85-4fbe-9999-e23d3a5f9bd3"
+1705259194010 main info "userPartitionService~_rectifyTheActivePartitionOfApplication: Setting the active partition to ","1d7ae037-2f85-4fbe-9999-e23d3a5f9bd3"
+1705259194022 main info "userPartitionService~init: Success"
+[9640:0114/140634.040762:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.040991:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.041138:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.041269:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.041408:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+1705259194041 main info "userPartitionService: State of v8 partition system:"
+[9640:0114/140634.041531:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.041649:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.041782:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.041909:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.042036:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.042165:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.042325:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.042495:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.042632:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.042765:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.042919:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.043064:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.043203:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.043380:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.043507:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.043624:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.043743:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.043854:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.043963:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.044087:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.044185:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.044278:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.044394:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.045211:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.045419:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.045605:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.045763:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.045925:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.046112:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.046317:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.046499:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.046642:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.046747:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.046851:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+[9640:0114/140634.046949:ERROR:gbm_wrapper.cc(275)] Failed to export buffer to dma_buf: No existe el fichero o el directorio (2)
+1705259194047 main info "shell~init~getPartitionToLoad: loading active partition"
+1705259194050 main info "userPartitionService: List of partitions:",[{"partitionId":"1d7ae037-2f85-4fbe-9999-e23d3a5f9bd3","namespace":"users","userId":"14853539","teamId":"0","lastUpdated":"2023-12-21T00:22:44.152Z"},{"partitionId":"49125f8f-0a37-4159-b074-38dbc78e5144","namespace":"scratchPad","userId":0,"teamId":0,"isDirty":false}]
+1705259194050 main info "userPartitionService: users global meta:",{}
+[9640:0114/140635.881822:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[9640:0114/140635.882529:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+1705259196903 main info "RuntimeIPCAgent~started: Success"
+1705259197107 main info "Main~getRemoteInitPath:: "
+1705259197742 main info "UpdateHandler~app-update-events - Received event",{"name":"checkForElectronVersionUpdated","namespace":"appUpdate"}
+INTERCEPTOR CONNECTIVITY: Connecting to Interceptor Bridge
+IPCClient ~ WindowHandler: New event is received { type: 'window-opened' }
+1705259197766 main info "windowManager: First requester booted successfully."
+1705259197766 main info "windowManager~restoreWindows: Restoring requester windows"
+1705259197767 main info "Main~AppEvents - Received booted event for process requester.Version 10.20.10 UI Version: 10.20.10-ui-231204-0510 Desktop Platform Version: 10.20.0"
+1705259197896 main info "Main~getRemoteInitPath:: "
+1705259198392 main info "INTERCEPTOR CONNECTIVITY: Attempting to start websocket server on port 15611"
+1705259198724 main info "Main~getPlatformLaunchPerfMetrics"
+1705259199802 main info "Main - model-events~user - (user, bootstrapUser) received"
+1705259199802 main info "model-events~user - bootstrapUser received"
+1705259199837 main info "userPartitionService~associateTransitPartition: ",{"partitionId":"1d7ae037-2f85-4fbe-9999-e23d3a5f9bd3","context":{"namespace":"users","userId":"14853539","teamId":"0"}}
+1705259199878 main info "userPartitionService: State of v8 partition system:"
+1705259199884 main info "userPartitionService: List of partitions:",[{"partitionId":"1d7ae037-2f85-4fbe-9999-e23d3a5f9bd3","namespace":"users","userId":"14853539","teamId":"0","lastUpdated":"2024-01-14T19:06:39.836Z"},{"partitionId":"49125f8f-0a37-4159-b074-38dbc78e5144","namespace":"scratchPad","userId":0,"teamId":0,"isDirty":false}]
+1705259199884 main info "userPartitionService: users global meta:",{}
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+1705259208343 main info "UpdateHandler~app-update-events - Received event",{"name":"updateElectron","namespace":"appUpdate","data":{"channel":"stable","version":"10.20.0","downloadVersion":"10.22.0","appId":"00b2246d-2d2d-422a-aa6c-22681b24a429","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Postman/10.20.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36","platform":"LINUX","arch":"64","downloadURL":"https://dl.pstmn.io/download/version/10.22.0/linux_64","updateServerDomain":"https://dl.pstmn.io/","additionalParamsString":"installationId=00b2246d-2d2d-422a-aa6c-22681b24a429&userId=14853539&syncEnabled=true&teamPlan=&teamId=0","userId":"14853539"}}
+1705259208343 main info "LinuxUpdater~downloadUpdate - UpdateInfo received",{"channel":"stable","version":"10.20.0","downloadVersion":"10.22.0","appId":"00b2246d-2d2d-422a-aa6c-22681b24a429","userAgent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Postman/10.20.0 Chrome/100.0.4896.160 Electron/18.3.5 Safari/537.36","platform":"LINUX","arch":"64","downloadURL":"https://dl.pstmn.io/download/version/10.22.0/linux_64","updateServerDomain":"https://dl.pstmn.io/","additionalParamsString":"installationId=00b2246d-2d2d-422a-aa6c-22681b24a429&userId=14853539&syncEnabled=true&teamPlan=&teamId=0","userId":"14853539"}
+1705259208641 main info "@postman/app-updater: error",{"errno":-13,"code":"EACCES","syscall":"open","path":"/opt/postman/Postman-1705259208343.tar.gz","name":"Error","message":"EACCES: permission denied, open '/opt/postman/Postman-1705259208343.tar.gz'","stack":"Error: EACCES: permission denied, open '/opt/postman/Postman-1705259208343.tar.gz'"},{"packageName":"Postman","eID":"Postman-1705259208343","downloadURL":"https://dl.pstmn.io/download/version/10.22.0/linux_64","downloadDirectory":"/opt/postman","downloadInfo":{"status":"DOWNLOAD_ERROR","error":{"errno":-13,"code":"EACCES","syscall":"open","path":"/opt/postman/Postman-1705259208343.tar.gz"},"downloadDirectory":"/opt/postman"}}
+1705259208643 main info "UpdateHandler~app-update-events - Received event",{"name":"electronAppUpdateError","namespace":"appUpdate","data":{"error":{"errno":-13,"code":"EACCES","syscall":"open","path":"/opt/postman/Postman-1705259208343.tar.gz","name":"Error","message":"EACCES: permission denied, open '/opt/postman/Postman-1705259208343.tar.gz'","stack":"Error: EACCES: permission denied, open '/opt/postman/Postman-1705259208343.tar.gz'"},"updateData":{"packageName":"Postman","eID":"Postman-1705259208343","downloadURL":"https://dl.pstmn.io/download/version/10.22.0/linux_64","downloadDirectory":"/opt/postman","downloadInfo":{"status":"DOWNLOAD_ERROR","error":{"errno":-13,"code":"EACCES","syscall":"open","path":"/opt/postman/Postman-1705259208343.tar.gz"},"downloadDirectory":"/opt/postman"}}}}
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+[9640:0114/140756.561161:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'focus', windowId: 1 }
+IPCClient ~ WindowHandler: New event is received { type: 'blur', windowId: 1 }
