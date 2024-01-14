@@ -2,7 +2,7 @@
 
 ## Objetivo del Proyecto
 
-El objetivo principal de este proyecto fue desarrollar una API utilizando Spring Boot para proporcionar servicios de creación, lectura, actualización y eliminación (CRUD) de entidades relacionadas con un sistema específico,en adelante, se evalua el framework ionic para el lado del cliente, y conectar todo el ecosistema de forma basica, dejando de lado aspectos especializados.
+El objetivo principal de este proyecto fue desarrollar una API utilizando Spring Boot para proporcionar servicios de creación, lectura, actualización y eliminación (CRUD) de entidades relacionadas con un sistema específico,en adelante, se evalua el framework ionic para el lado del cliente, y conectar todo el ecosistema de forma basica, dejando de lado aspectos especializados por el momento.
 
 ## Descripción General
 
